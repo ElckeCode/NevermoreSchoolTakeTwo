@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevermoreSchoolTakeTwo", "NevermoreSchoolTakeTwo.csproj", "{67930CF3-9CAA-4124-A3E4-7C942B17E878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67930CF3-9CAA-4124-A3E4-7C942B17E878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67930CF3-9CAA-4124-A3E4-7C942B17E878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67930CF3-9CAA-4124-A3E4-7C942B17E878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67930CF3-9CAA-4124-A3E4-7C942B17E878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAB0C6C-305F-474B-8C59-A36E16D63507}
+	EndGlobalSection
+EndGlobal
